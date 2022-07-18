@@ -1,2 +1,2 @@
 # MiniGame
- Sample Escene
+ Sample Scene
